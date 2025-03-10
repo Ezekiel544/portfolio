@@ -1,4 +1,4 @@
-import Counter from "./Counter";
+import Counter from "./counter";
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 import Bitimage from "./bitimage.jpg";
