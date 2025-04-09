@@ -13,8 +13,8 @@ function Headerwork () {
             email = 'washtiong563@gmail.com'
         />
         
-         <Contactfile/>
-         <Contactfile/>
+         {/* <Contactfile/> */}
+         {/* <Contactfile/> */}
         </>
     )
 }
